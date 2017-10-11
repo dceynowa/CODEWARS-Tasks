@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="03821695-0655-4bc4-9db5-e0d3edf0f22a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PersistentBugger/Instruction.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PersistentBugger/PersistentBugger.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PersistentBugger/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PureFunctions/Instruction.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PureFunctions/PureFunctions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PureFunctions/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PersistentBugger/Instruction.txt" afterPath="$PROJECT_DIR$/PersistentBugger/Instruction.txt" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,21 +21,21 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="PersistentBugger.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/PersistentBugger/PersistentBugger.js">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PureFunctions/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="14">
-              <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+            <state relative-caret-position="160">
+              <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PersistentBugger/index.html">
+      <file leaf-file-name="PureFunctions.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/PureFunctions/PureFunctions.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+            <state relative-caret-position="174">
+              <caret line="10" column="2" lean-forward="true" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
               <folding />
             </state>
           </provider>
@@ -43,8 +44,8 @@
       <file leaf-file-name="Instruction.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PersistentBugger/Instruction.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="10" column="26" lean-forward="false" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+            <state relative-caret-position="320">
+              <caret line="16" column="26" lean-forward="false" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -71,9 +72,12 @@
         <option value="$PROJECT_DIR$/AddingWords/index.html" />
         <option value="$PROJECT_DIR$/AddingWords/CountCubes.js" />
         <option value="$PROJECT_DIR$/CountCubes/CountCubes.js" />
-        <option value="$PROJECT_DIR$/PersistentBugger/Instruction.txt" />
         <option value="$PROJECT_DIR$/PersistentBugger/index.html" />
+        <option value="$PROJECT_DIR$/Pure Functions/index.html" />
+        <option value="$PROJECT_DIR$/PureFunctions/index.html" />
+        <option value="$PROJECT_DIR$/PersistentBugger/Instruction.txt" />
         <option value="$PROJECT_DIR$/PersistentBugger/PersistentBugger.js" />
+        <option value="$PROJECT_DIR$/PureFunctions/PureFunctions.js" />
       </list>
     </option>
   </component>
@@ -122,7 +126,17 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="PersistentBugger" />
+              <option name="myItemId" value="PureFunctions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CODEWARS-Tasks" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CODEWARS-Tasks" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -154,11 +168,12 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Projekty\CODEWARS-Tasks" />
+      <recent name="D:\Projekty\CODEWARS-Tasks\PersistentBugger" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Projekty\CODEWARS-Tasks\AddingWords" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Projekty\CODEWARS-Tasks\PersistentBugger" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -173,8 +188,11 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html">
+  <component name="RunManager" selected="JavaScript Debug.index.html (1)">
     <configuration default="false" name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/CODEWARS-Tasks/PersistentBugger/index.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="index.html (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/CODEWARS-Tasks/PureFunctions/index.html">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -243,12 +261,14 @@
       <recursive>false</recursive>
       <method />
     </configuration>
-    <list size="1">
+    <list size="2">
       <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.html (1)" />
     </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html (1)" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
       </list>
     </recent_temporary>
   </component>
@@ -265,7 +285,7 @@
       <workItem from="1507659944959" duration="6999000" />
       <workItem from="1507667828132" duration="4292000" />
       <workItem from="1507742680339" duration="3009000" />
-      <workItem from="1507753889349" duration="3356000" />
+      <workItem from="1507753889349" duration="4851000" />
     </task>
     <task id="LOCAL-00001" summary="Count Cubes solved">
       <created>1507663236629</created>
@@ -278,7 +298,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17656000" />
+    <option name="totallyTimeSpent" value="19151000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1366" height="728" extended-state="0" />
@@ -412,14 +432,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PersistentBugger/Instruction.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" column="26" lean-forward="false" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/PersistentBugger/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
@@ -428,10 +440,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/PersistentBugger/Instruction.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="16" column="26" lean-forward="false" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/PersistentBugger/PersistentBugger.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="14">
-          <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+        <state relative-caret-position="300">
+          <caret line="15" column="41" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="24" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PureFunctions/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PureFunctions/PureFunctions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="10" column="2" lean-forward="true" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
           <folding />
         </state>
       </provider>
